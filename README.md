@@ -7,7 +7,7 @@ A simple and responsive **Counter Application** built using **React.js**. This p
 ## 📸 Preview
 
 <p align="center">
-  <img src="screenshot.png" alt="Counter App Preview" width="400">
+  <img src="screenshot.png" width="400">
 </p>
 
 
