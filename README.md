@@ -49,7 +49,7 @@ Counter-App/
 ## 🚀 Live Demo
 
 🌐 Live Website:
-counter-react-a.netlify.app
+https://counter-react-a.netlify.app/
 
 ---
 
